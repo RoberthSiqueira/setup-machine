@@ -26,9 +26,11 @@ Thanks, [@sb2nov](https://github.com/sb2nov)
 plugins=(git branch themes colored-man-pages colorize history macos brew pod fastfile rbenv ruby python)
 
 ## Oh My Zsh Theme
-Get fonts from https://github.com/ryanoasis/nerd-fonts/#option-3-install-script
+Get fonts from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+
 Install: Fira Code Nerd Font
-Get Theme from https://github.com/spaceship-prompt/spaceship-prompt
+
+Get Theme from [Speceship Prompt ](https://github.com/spaceship-prompt/spaceship-prompt)
 
 ## Terminal
 
